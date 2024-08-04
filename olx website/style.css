@@ -1,0 +1,18 @@
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+
+}
+
+.sell {
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    pointer-events: auto;
+
+}
+.border-image {
+    width: 10.4;
+    height: 4.8;
+}
